@@ -1,4 +1,4 @@
 hexo-theme-pandora
 ==================
 
-My personal
+My personal theme for hexo
